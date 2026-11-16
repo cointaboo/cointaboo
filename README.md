@@ -24,6 +24,9 @@
 - [PDF 合并拆分](https://github.com/cointaboo/pdf-merge-split-guide) — 页面树结构、pdf-lib 实现、六个常见坑
 - [图片压缩到指定大小](https://github.com/cointaboo/image-compress-guide) — JPEG quality 曲线、二分查找、EXIF 方向
 - [批量二维码生成](https://github.com/cointaboo/qr-batch-generator-guide) — 容量上限、纠错级别、ZIP 结构
+- [TOTP 二步验证](https://github.com/cointaboo/totp-2fa-guide) — RFC 6238 实现、时间偏差排查、备份策略
+- [JSON 格式化与校验](https://github.com/cointaboo/json-formatting-guide) — 大整数精度、大文件流式解析、转 TypeScript
+- [批量文本清洗](https://github.com/cointaboo/text-cleaning-guide) — 去重算法选择、账号列表解析、正则与 CSV 陷阱
 - [Telegram 账号购买指南](https://github.com/cointaboo/telegram-account-buy-guide) — 老号/新号/直登号的区别与验证方法
 - [美区 Apple ID 购买指南](https://github.com/cointaboo/apple-id-purchase-guide) — 独享/共享/免税州怎么选
 - [短信接码平台选择指南](https://github.com/cointaboo/sms-verification-guide) — 虚拟号、实体卡、续租的区别
